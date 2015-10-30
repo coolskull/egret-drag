@@ -1,0 +1,1500 @@
+{
+  "groups": [
+	{
+	  "keys": "tips_bg ,bgMain,   sc1_bg ,sc1_btn , sc1_char , sc1_text1 , sc1_text2 , sc2_bg , sc2_btn , sc2_text, sc3_bg , sc3_btn1 , sc3_btn2 , sc3_btn3 , sc5_char , title_bg ,submit_btn, sc5_text1 , sc5_text2, reselect_btn , continue_btn ,logo,design,step_bg,bgBlock,btnNormal,btnNormal,bgTip,btnContinue,btnReselect,sc7_btn,sc10_btn,tipGirl,paragraphList,moveParagrahList,yellowBlock,bubbleListParam,dragTextListParam,tipTextList,sc6_bg,sc7_bg,sc7_tip,sc8_bg,sc8_right,sc8_tip,sc9_bg,sc9_text,sc9_tip,sc9_char,sc10_char,sc27_text_bg,sc27_arrow,sc27_more,sc28_bg,sc12_img1,sc12_img2,sc12_img3,sc12_img0,sc13_text1,sc13_text2,sc13_char,sc14_img,sc14_img2,casetip15,sc15_boy,sc15_left ,sc16_pic1,sc16_pic2,sc16_pic3,sc16_bubble,sc16_text,casetip17,bgAction1,casetip18,pics,dragPics,sc23_1,sc23_2,sc23_3,bgAction2,bgAction3,bgAction4,casetip22,casetip24,casetip26,pics,dragPics,sc23_1,sc23_2,sc23_3,IhateU",
+	  "name": "preload"
+	},
+	{
+	  "keys": " soundP2 , soundP3 , soundP4 , soundP5,soundP7, soundP8 , soundP9, soundP10,soundP11 , soundP12, soundP13 ,soundP14 ,soundP15,soundP16,soundP17,soundP20,soundP21,soundP22,soundP23,soundP24,soundP25,soundP26, soundP27",
+	  "name": "sounds"
+	}
+  ],
+  "resources": [
+	{
+	  "name": "soundP2",
+	  "type": "sound",
+	  "url": "sound/P2.mp3"
+	},
+	{
+	  "name": "soundP3",
+	  "type": "sound",
+	  "url": "sound/p3.mp3"
+	},
+	{
+	  "name": "soundP4",
+	  "type": "sound",
+	  "url": "sound/p4.mp3"
+	},
+	{
+	  "name": "soundP5",
+	  "type": "sound",
+	  "url": "sound/P5.mp3"
+	},
+	{
+	  "name": "soundP7",
+	  "type": "sound",
+	  "url": "sound/P7.mp3"
+	},
+	{
+	  "name": "soundP8",
+	  "type": "sound",
+	  "url": "sound/P8.mp3"
+	},
+	{
+	  "name": "soundP9",
+	  "type": "sound",
+	  "url": "sound/P9.mp3"
+	},
+	{
+	  "name": "soundP10",
+	  "type": "sound",
+	  "url": "sound/P10.mp3"
+	},
+	{
+	  "name": "soundP11",
+	  "type": "sound",
+	  "url": "sound/P11.mp3"
+	},
+	{
+	  "name": "soundP12",
+	  "type": "sound",
+	  "url": "sound/P12.mp3"
+	},
+	{
+	  "name": "soundP13",
+	  "type": "sound",
+	  "url": "sound/P13.mp3"
+	},
+	{
+	  "name": "soundP14",
+	  "type": "sound",
+	  "url": "sound/P14.mp3"
+	},
+	{
+	  "name": "soundP15",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P15.mp3"
+	},
+	{
+	  "name": "soundP16",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P16.mp3"
+	},
+	{
+	  "name": "soundP17",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P17.mp3"
+	},
+	{
+	  "name": "soundP18",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P18.mp3"
+	},
+	{
+	  "name": "soundP20",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P20.mp3"
+	},
+	{
+	  "name": "soundP21",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P21.mp3"
+	},
+	{
+	  "name": "soundP22",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P22.mp3"
+	},
+	{
+	  "name": "soundP23",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P23.mp3"
+	},
+	{
+	  "name": "soundP24",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P24.mp3"
+	},
+	{
+	  "name": "soundP25",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P25.mp3"
+	},
+	{
+	  "name": "soundP26",
+	  "type": "sound",
+	  "soundType": "music",
+	  "url": "sound/P26.mp3"
+	},
+	{
+	  "name": "soundP27",
+	  "type": "sound",
+	  "url": "sound/P27.mp3"
+	},
+	{
+	  "name": "loading_png",
+	  "type": "image",
+	  "url": "public/loading.png"
+	},
+	{
+	  "name": "loading_json",
+	  "type": "json",
+	  "url": "config/loading.json"
+	},
+	{
+	  "name": "paragraphList",
+	  "type": "json",
+	  "url": "config/paragraphList.json"
+	},
+	{
+	  "name": "moveParagrahList",
+	  "type": "json",
+	  "url": "config/moveParagrahList.json"
+	},
+	{
+	  "name": "yellowBlock",
+	  "type": "json",
+	  "url": "config/yellowBlock.json"
+	},
+	{
+	  "name": "sc1_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc1_bg.jpg"
+	},
+	{
+	  "name": "sc1_char",
+	  "type": "image",
+	  "url": "public/char_tip_girl.png"
+	},
+	{
+	  "name": "sc1_btn",
+	  "type": "image",
+	  "url": "sc1_sc13/sc1_btn.png"
+	},
+	{
+	  "name": "step_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/step_bg.jpg"
+	},
+	{
+	  "name": "sc1_text1",
+	  "type": "image",
+	  "url": "sc1_sc13/sc1_text1.png"
+	},
+	{
+	  "name": "sc1_text2",
+	  "type": "image",
+	  "url": "sc1_sc13/sc1_text2.png"
+	},
+	{
+	  "name": "sc2_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc2_bg.jpg"
+	},
+	{
+	  "name": "sc2_btn",
+	  "type": "image",
+	  "url": "sc1_sc13/sc2_btn.png"
+	},
+	{
+	  "name": "sc2_text",
+	  "type": "image",
+	  "url": "sc1_sc13/sc2_text.png"
+	},
+	{
+	  "name": "sc3_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc3_bg.jpg"
+	},
+	{
+	  "name": "sc3_btn1",
+	  "type": "image",
+	  "url": "sc1_sc13/sc3_btn1.png"
+	},
+	{
+	  "name": "sc3_btn2",
+	  "type": "image",
+	  "url": "sc1_sc13/sc3_btn2.png"
+	},
+	{
+	  "name": "sc3_btn3",
+	  "type": "image",
+	  "url": "sc1_sc13/sc3_btn3.png"
+	},
+	{
+	  "name": "sc5_char",
+	  "type": "image",
+	  "url": "sc1_sc13/sc5_char.png"
+	},
+	{
+	  "name": "title_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/title_bg.png"
+	},
+	{
+	  "name": "sc5_text1",
+	  "type": "image",
+	  "url": "sc1_sc13/sc5_text1.png"
+	},
+	{
+	  "name": "sc5_text2",
+	  "type": "image",
+	  "url": "sc1_sc13/sc5_text2.png"
+	},
+	{
+	  "name": "tips_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/tips_bg.jpg"
+	},
+	{
+	  "name": "continue_btn",
+	  "type": "image",
+	  "url": "public/btn_continue.png"
+	},
+	{
+	  "name": "reselect_btn",
+	  "type": "image",
+	  "url": "public/btn_reselect.png"
+	},
+	{
+	  "name": "sc6_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc6_bg.jpg"
+	},
+	{
+	  "name": "submit_btn",
+	  "type": "image",
+	  "url": "sc1_sc13/submit_btn.jpg"
+	},
+	{
+	  "name": "sc7_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc7_bg.jpg"
+	},
+	{
+	  "name": "sc7_btn",
+	  "type": "image",
+	  "url": "sc1_sc13/sc7_btn.jpg"
+	},
+	{
+	  "name": "sc7_tip",
+	  "type": "image",
+	  "url": "sc1_sc13/sc7_tip.jpg"
+	},
+	{
+	  "name": "sc8_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc8_bg.png"
+	},
+	{
+	  "name": "sc8_tip",
+	  "type": "image",
+	  "url": "sc1_sc13/sc8_tip.png"
+	},
+	{
+	  "name": "sc8_right",
+	  "type": "image",
+	  "url": "sc1_sc13/sc8_right.jpg"
+	},
+	{
+	  "name": "sc9_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc9_bg.jpg"
+	},
+	{
+	  "name": "sc9_char",
+	  "type": "image",
+	  "url": "sc1_sc13/sc9_char.png"
+	},
+	{
+	  "name": "sc9_tip",
+	  "type": "image",
+	  "url": "sc1_sc13/sc9_tip.png"
+	},
+	{
+	  "name": "sc9_text",
+	  "type": "image",
+	  "url": "sc1_sc13/sc9_text.png"
+	},
+	{
+	  "name": "sc10_btn",
+	  "type": "image",
+	  "url": "sc1_sc13/sc10_btn.png"
+	},
+	{
+	  "name": "sc10_char",
+	  "type": "image",
+	  "url": "sc1_sc13/sc10_char.png"
+	},
+	{
+	  "name": "sc12_img1",
+	  "type": "image",
+	  "url": "sc1_sc13/sc12_img1.jpg"
+	},
+	{
+	  "name": "sc12_img2",
+	  "type": "image",
+	  "url": "sc1_sc13/sc12_img2.jpg"
+	},
+	{
+	  "name": "sc12_img3",
+	  "type": "image",
+	  "url": "sc1_sc13/sc12_img3.jpg"
+	},
+	{
+	  "name": "sc12_img0",
+	  "type": "image",
+	  "url": "sc1_sc13/sc12_img0.jpg"
+	},
+	{
+	  "name": "sc13_text1",
+	  "type": "image",
+	  "url": "sc1_sc13/sc13_text1.png"
+	},
+	{
+	  "name": "sc13_text2",
+	  "type": "image",
+	  "url": "sc1_sc13/sc13_text2.png"
+	},
+	{
+	  "name": "sc13_char",
+	  "type": "image",
+	  "url": "sc1_sc13/sc13_char.png"
+	},
+	{
+	  "name": "logo",
+	  "type": "image",
+	  "url": "sc1_sc13/logo.jpg"
+	},
+	{
+	  "name": "design",
+	  "type": "image",
+	  "url": "sc1_sc13/design.jpg"
+	},
+	{
+	  "name": "bgMain",
+	  "type": "image",
+	  "url": "sc14_sc26/bg.jpg"
+	},
+	{
+	  "name": "sc27_text_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc27_text_bg.png"
+	},
+	{
+	  "name": "sc27_arrow",
+	  "type": "image",
+	  "url": "sc1_sc13/sc27_arrow.png"
+	},
+	{
+	  "name": "sc27_more",
+	  "type": "image",
+	  "url": "sc1_sc13/sc27_more.png"
+	},
+	{
+	  "name": "sc28_bg",
+	  "type": "image",
+	  "url": "sc1_sc13/sc28_bg.jpg"
+	},
+	{
+	  "name": "sc14_img",
+	  "type": "image",
+	  "url": "sc1_sc13/sc14_img.jpg"
+	},
+	{
+	  "name": "sc14_img2",
+	  "type": "image",
+	  "url": "sc1_sc13/sc14_img2.jpg"
+	},
+	{
+	  "name": "bubbleListParam",
+	  "type": "json",
+	  "url": "config/bubbleList.json"
+	},
+	{
+	  "name": "dragTextListParam",
+	  "type": "json",
+	  "url": "config/dragTextList.json"
+	},
+	{
+	  "name": "tipTextList",
+	  "type": "json",
+	  "url": "config/tipTextList.json"
+	},
+	{
+	  "name": "bgAction1",
+	  "type": "image",
+	  "url": "sc14_sc26/bg_action1.png"
+	},
+	{
+	  "name": "bgAction2",
+	  "type": "image",
+	  "url": "sc14_sc26/bg_action2.png"
+	},
+	{
+	  "name": "bgAction3",
+	  "type": "image",
+	  "url": "sc14_sc26/bg_action3.png"
+	},
+	{
+	  "name": "bgAction4",
+	  "type": "image",
+	  "url": "sc14_sc26/bg_action4.png"
+	},
+	{
+	  "name": "bgBlock",
+	  "scale9grid": "20,20,300,520",
+	  "type": "image",
+	  "url": "sc14_sc26/bg_block.png"
+	},
+	{
+	  "name": "btnNormal",
+	  "scale9grid": "35,25,215,50",
+	  "type": "image",
+	  "url": "sc14_sc26/btn_normal.png"
+	},
+	{
+	  "name": "casetip15",
+	  "type": "image",
+	  "url": "sc14_sc26/casetip15.png"
+	},
+	{
+	  "name": "casetip17",
+	  "type": "image",
+	  "url": "sc14_sc26/casetip17.png"
+	},
+	{
+	  "name": "casetip18",
+	  "type": "image",
+	  "url": "sc14_sc26/casetip18.png"
+	},
+	{
+	  "name": "casetip22",
+	  "type": "image",
+	  "url": "sc14_sc26/casetip22.png"
+	},
+	{
+	  "name": "casetip24",
+	  "type": "image",
+	  "url": "sc14_sc26/casetip24.png"
+	},
+	{
+	  "name": "casetip26",
+	  "type": "image",
+	  "url": "sc14_sc26/casetip26.png"
+	},
+	{
+	  "name": "pics",
+	  "type": "sheet",
+	  "url": "sc14_sc26/pics.json"
+	},
+	{
+	  "name": "dragPics",
+	  "type": "sheet",
+	  "url": "sc14_sc26/dragPics.json"
+	},
+	{
+	  "name": "bgTip",
+	  "type": "image",
+	  "url": "public/bg_tip.png"
+	},
+	{
+	  "name": "btnContinue",
+	  "type": "image",
+	  "url": "public/btn_continue.png"
+	},
+	{
+	  "name": "btnReselect",
+	  "type": "image",
+	  "url": "public/btn_reselect.png"
+	},
+	{
+	  "name": "tipGirl",
+	  "type": "image",
+	  "url": "public/char_tip_girl.png"
+	},
+	{
+	  "name": "sc15_boy",
+	  "type": "image",
+	  "url": "sc14_sc26/sc15_boy.png"
+	},
+	{
+	  "name": "sc15_left",
+	  "type": "image",
+	  "url": "sc14_sc26/sc15_left.png"
+	},
+	{
+	  "name": "sc16_pic1",
+	  "type": "image",
+	  "url": "sc14_sc26/sc16_pic1.png"
+	},
+	{
+	  "name": "sc16_pic2",
+	  "type": "image",
+	  "url": "sc14_sc26/sc16_pic2.png"
+	},
+	{
+	  "name": "sc16_pic3",
+	  "type": "image",
+	  "url": "sc14_sc26/sc16_pic3.png"
+	},
+	{
+	  "name": "sc16_bubble",
+	  "type": "image",
+	  "url": "sc14_sc26/sc16_bubble.png"
+	},
+	{
+	  "name": "sc16_text",
+	  "type": "image",
+	  "url": "sc14_sc26/sc16_text.png"
+	},
+	{
+	  "name": "sc23_1",
+	  "type": "image",
+	  "url": "sc14_sc26/sc23_1.png"
+	},
+	{
+	  "name": "sc23_1",
+	  "type": "image",
+	  "url": "sc14_sc26/sc23_1.png"
+	},
+	{
+	  "name": "sc23_1",
+	  "type": "image",
+	  "url": "sc14_sc26/sc23_1.png"
+	},
+	{
+	  "name": "sc23_2",
+	  "type": "image",
+	  "url": "sc14_sc26/sc23_2.png"
+	},
+	{
+	  "name": "sc23_3",
+	  "type": "image",
+	  "url": "sc14_sc26/sc23_3.png"
+	},
+	{
+	  "name": "IhateU",
+	  "type": "image",
+	  "url": "sc14_sc26/IhateU.png"
+	},
+	{
+	  "name": "checkbox_select_disabled_png",
+	  "type": "image",
+	  "url": "simple/CheckBox/checkbox-select_disabled.png"
+	},
+	{
+	  "name": "checkbox_select_normal_png",
+	  "type": "image",
+	  "url": "simple/CheckBox/checkbox-select_normal.png"
+	},
+	{
+	  "name": "checkbox_unselect_disabled_png",
+	  "type": "image",
+	  "url": "simple/CheckBox/checkbox-unselect_disabled.png"
+	},
+	{
+	  "name": "checkbox_unselect_normal_png",
+	  "type": "image",
+	  "url": "simple/CheckBox/checkbox-unselect_normal.png"
+	},
+	{
+	  "name": "hslider_fill_png",
+	  "scale9grid": "1,1,13,2",
+	  "type": "image",
+	  "url": "simple/HSlider/HSlider_fill.png"
+	},
+	{
+	  "name": "hslider_thumb_png",
+	  "type": "image",
+	  "url": "simple/HSlider/HSlider_thumb.png"
+	},
+	{
+	  "name": "hslider_track_png",
+	  "scale9grid": "1,1,13,2",
+	  "type": "image",
+	  "url": "simple/HSlider/HSlider_track.png"
+	},
+	{
+	  "name": "button_disabled_png",
+	  "scale9grid": "3,4,14,13",
+	  "type": "image",
+	  "url": "simple/NormalButton/button_disabled.png"
+	},
+	{
+	  "name": "button_down_png",
+	  "scale9grid": "4,3,13,14",
+	  "type": "image",
+	  "url": "simple/NormalButton/button_down.png"
+	},
+	{
+	  "name": "button_normal_png",
+	  "scale9grid": "4,3,13,15",
+	  "type": "image",
+	  "url": "simple/NormalButton/button_normal.png"
+	},
+	{
+	  "name": "panel_back_png",
+	  "scale9grid": "19,21,15,13",
+	  "type": "image",
+	  "url": "simple/Panel/Panel_back.png"
+	},
+	{
+	  "name": "progressbar_fill_png",
+	  "type": "image",
+	  "url": "simple/ProgressBar/Progressbar_fill.png"
+	},
+	{
+	  "name": "progressbar_track_png",
+	  "scale9grid": "1,1,28,8",
+	  "type": "image",
+	  "url": "simple/ProgressBar/Progressbar_track.png"
+	},
+	{
+	  "name": "radiobutton_select_disabled_png",
+	  "type": "image",
+	  "url": "simple/RadioButton/RadioButton_select_disabled.png"
+	},
+	{
+	  "name": "radiobutton_select_normal_png",
+	  "type": "image",
+	  "url": "simple/RadioButton/RadioButton_select_normal.png"
+	},
+	{
+	  "name": "radiobutton_unselect_disabled_png",
+	  "type": "image",
+	  "url": "simple/RadioButton/RadioButton_unselect_disabled.png"
+	},
+	{
+	  "name": "radiobutton_unselect_normal_png",
+	  "type": "image",
+	  "url": "simple/RadioButton/RadioButton_unselect_normal.png"
+	},
+	{
+	  "name": "togglebutton_disabled_png",
+	  "scale9grid": "3,3,9,2",
+	  "type": "image",
+	  "url": "simple/ToggleButton/togglebutton_disabled.png"
+	},
+	{
+	  "name": "togglebutton_normal_png",
+	  "scale9grid": "3,3,9,2",
+	  "type": "image",
+	  "url": "simple/ToggleButton/togglebutton_normal.png"
+	},
+	{
+	  "name": "togglebutton_selected_png",
+	  "scale9grid": "3,3,9,2",
+	  "type": "image",
+	  "url": "simple/ToggleButton/togglebutton_selected.png"
+	},
+	{
+	  "name": "tree_back_png",
+	  "scale9grid": "4,5,26,25",
+	  "type": "image",
+	  "url": "simple/Tree/tree_back.png"
+	},
+	{
+	  "name": "tree_btndisabled_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_btnDisabled.png"
+	},
+	{
+	  "name": "tree_btndisabledselect_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_btnDisabledSelect.png"
+	},
+	{
+	  "name": "tree_btndown_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_btnDown.png"
+	},
+	{
+	  "name": "tree_btndownselect_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_btnDownSelect.png"
+	},
+	{
+	  "name": "tree_btnup_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_btnUp.png"
+	},
+	{
+	  "name": "tree_btnupselect_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_btnUpSelect.png"
+	},
+	{
+	  "name": "vslider_fill_png",
+	  "scale9grid": "1,1,2,13",
+	  "type": "image",
+	  "url": "simple/VSlider/VSlider_fill.png"
+	},
+	{
+	  "name": "vslider_thumb_png",
+	  "type": "image",
+	  "url": "simple/VSlider/VSlider_thumb.png"
+	},
+	{
+	  "name": "vslider_track_png",
+	  "scale9grid": "1,1,2,13",
+	  "type": "image",
+	  "url": "simple/VSlider/VSlider_track.png"
+	},
+	{
+	  "name": "onoffbutton_off_label_png",
+	  "type": "image",
+	  "url": "simple/ONOFFButton/onoffbutton_off_label.png"
+	},
+	{
+	  "name": "onoffbutton_off_thumb_png",
+	  "type": "image",
+	  "url": "simple/ONOFFButton/onoffbutton_off_thumb.png"
+	},
+	{
+	  "name": "onoffbutton_off_track_png",
+	  "type": "image",
+	  "url": "simple/ONOFFButton/onoffbutton_off_track.png"
+	},
+	{
+	  "name": "onoffbutton_on_label_png",
+	  "type": "image",
+	  "url": "simple/ONOFFButton/onoffbutton_on_label.png"
+	},
+	{
+	  "name": "onoffbutton_on_thumb_png",
+	  "type": "image",
+	  "url": "simple/ONOFFButton/onoffbutton_on_thumb.png"
+	},
+	{
+	  "name": "onoffbutton_on_track_png",
+	  "type": "image",
+	  "url": "simple/ONOFFButton/onoffbutton_on_track.png"
+	},
+	{
+	  "name": "tree_icon_dir_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_icon_dir.png"
+	},
+	{
+	  "name": "tree_icon_file_png",
+	  "type": "image",
+	  "url": "simple/Tree/tree_icon_file.png"
+	},
+	{
+	  "name": "panel_headeback_png",
+	  "scale9grid": "24,18,19,22",
+	  "type": "image",
+	  "url": "simple/Panel/Panel_headeBack.png"
+	},
+	{
+	  "name": "dropdownlist_arrow_down_png",
+	  "type": "image",
+	  "url": "simple/DropdownList/dropdownlist_arrow_down.png"
+	},
+	{
+	  "name": "dropdownlist_arrow_up_png",
+	  "type": "image",
+	  "url": "simple/DropdownList/dropdownlist_arrow_up.png"
+	},
+	{
+	  "name": "DropDownListButtonSkin_down_png",
+	  "scale9grid": "3,3,4,19",
+	  "type": "image",
+	  "url": "simple/DropdownList/DropDownListButtonSkin_down.png"
+	},
+	{
+	  "name": "DropDownListButtonSkin_up_png",
+	  "scale9grid": "3,3,4,19",
+	  "type": "image",
+	  "url": "simple/DropdownList/DropDownListButtonSkin_up.png"
+	},
+	{
+	  "name": "closebtn_disabled_png",
+	  "type": "image",
+	  "url": "simple/TitleWindow/closebtn_disabled.png"
+	},
+	{
+	  "name": "closebtn_down_png",
+	  "type": "image",
+	  "url": "simple/TitleWindow/closebtn_down.png"
+	},
+	{
+	  "name": "closebtn_up_png",
+	  "type": "image",
+	  "url": "simple/TitleWindow/closebtn_up.png"
+	},
+	{
+	  "name": "bgImage",
+	  "type": "image",
+	  "url": "bg.jpg"
+	},
+	{
+	  "name": "app_list_item_cutlline_png",
+	  "type": "image",
+	  "url": "simple/ItemRenderer/app_list_item_cutlline.png"
+	},
+	{
+	  "name": "app_list_item_select_png",
+	  "type": "image",
+	  "url": "simple/ItemRenderer/app_list_item_select.png"
+	},
+	{
+	  "name": "app_list_item_up_png",
+	  "type": "image",
+	  "url": "simple/ItemRenderer/app_list_item_up.png"
+	},
+	{
+	  "name": "togglebutton_over_png",
+	  "scale9grid": "3,2,9,4",
+	  "type": "image",
+	  "url": "simple/ToggleButton/togglebutton_over.png"
+	},
+	{
+	  "name": "checkbox_select_over_png",
+	  "type": "image",
+	  "url": "simple/CheckBox/checkbox-select_over.png"
+	},
+	{
+	  "name": "checkbox_unselect_over_png",
+	  "type": "image",
+	  "url": "simple/CheckBox/checkbox-unselect_over.png"
+	},
+	{
+	  "name": "radiobutton_select_over_png",
+	  "type": "image",
+	  "url": "simple/RadioButton/RadioButton_select_over.png"
+	},
+	{
+	  "name": "radiobutton_unselect_over_png",
+	  "type": "image",
+	  "url": "simple/RadioButton/RadioButton_unselect_over.png"
+	},
+	{
+	  "name": "hscrollbtn_png",
+	  "scale9grid": "4,4,2,2",
+	  "type": "image",
+	  "url": "simple/HScrollBar/hscrollbtn.png"
+	},
+	{
+	  "name": "hscrolltrack_png",
+	  "type": "image",
+	  "url": "simple/HScrollBar/hscrolltrack.png"
+	},
+	{
+	  "name": "vscrollbtn_png",
+	  "scale9grid": "4,4,2,2",
+	  "type": "image",
+	  "url": "simple/VScrollBar/vscrollbtn.png"
+	},
+	{
+	  "name": "vscrolltrack_png",
+	  "type": "image",
+	  "url": "simple/VScrollBar/vscrolltrack.png"
+	},
+	{
+	  "name": "textbox_png",
+	  "scale9grid": "1,1,143,21",
+	  "type": "image",
+	  "url": "simple/TextInput/textbox.png"
+	}
+  ]
+}{
+"groups": [
+{
+"keys": " loading_png,loading_json,soundP2 , soundP3 , soundP4 , soundP5,soundP7, soundP8 , soundP9, soundP10,soundP11 , soundP12, soundP13 ,soundP14 ,soundP15,soundP16,soundP17,soundP20,soundP21,soundP22,soundP23,soundP24,soundP25,soundP26, soundP27,tips_bg ,bgMain,   sc1_bg ,sc1_btn , sc1_char , sc1_text1 , sc1_text2 , sc2_bg , sc2_btn , sc2_text, sc3_bg , sc3_btn1 , sc3_btn2 , sc3_btn3 , sc5_char , title_bg ,submit_btn, sc5_text1 , sc5_text2, reselect_btn , continue_btn ,logo,design,step_bg,bgBlock,btnNormal,btnNormal,bgTip,btnContinue,btnReselect,sc7_btn,sc10_btn,tipGirl,paragraphList,moveParagrahList,yellowBlock,bubbleListParam,dragTextListParam,tipTextList,sc6_bg,sc7_bg,sc7_tip,sc8_bg,sc8_right,sc8_tip,sc9_bg,sc9_text,sc9_tip,sc9_char,sc10_char,sc27_text_bg,sc27_arrow,sc27_more,sc28_bg,sc12_img1,sc12_img2,sc12_img3,sc12_img0,sc13_text1,sc13_text2,sc13_char,sc14_img,sc14_img2,casetip15,sc15_boy,sc15_left ,sc16_pic1,sc16_pic2,sc16_pic3,sc16_bubble,sc16_text,casetip17,bgAction1,casetip18,pics,dragPics,sc23_1,sc23_2,sc23_3,bgAction2,bgAction3,bgAction4,casetip22,casetip24,casetip26,pics,dragPics,sc23_1,sc23_2,sc23_3,IhateU",
+"name": "preload"
+}
+
+],
+"resources": [
+{
+"name": "soundP2",
+"type": "sound",
+"url": "sound/P2.mp3"
+},
+{
+"name": "soundP3",
+"type": "sound",
+"url": "sound/p3.mp3"
+},
+{
+"name": "soundP4",
+"type": "sound",
+"url": "sound/p4.mp3"
+},
+{
+"name": "soundP5",
+"type": "sound",
+"url": "sound/P5.mp3"
+},
+{
+"name": "soundP7",
+"type": "sound",
+"url": "sound/P7.mp3"
+},
+{
+"name": "soundP8",
+"type": "sound",
+"url": "sound/P8.mp3"
+},
+{
+"name": "soundP9",
+"type": "sound",
+"url": "sound/P9.mp3"
+},
+{
+"name": "soundP10",
+"type": "sound",
+"url": "sound/P10.mp3"
+},
+{
+"name": "soundP11",
+"type": "sound",
+"url": "sound/P11.mp3"
+},
+{
+"name": "soundP12",
+"type": "sound",
+"url": "sound/P12.mp3"
+},
+{
+"name": "soundP13",
+"type": "sound",
+"url": "sound/P13.mp3"
+},
+{
+"name": "soundP14",
+"type": "sound",
+"url": "sound/P14.mp3"
+},
+{
+"name": "soundP15",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P15.mp3"
+},
+{
+"name": "soundP16",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P16.mp3"
+},
+{
+"name": "soundP17",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P17.mp3"
+},
+{
+"name": "soundP18",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P18.mp3"
+},
+{
+"name": "soundP20",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P20.mp3"
+},
+{
+"name": "soundP21",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P21.mp3"
+},
+{
+"name": "soundP22",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P22.mp3"
+},
+{
+"name": "soundP23",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P23.mp3"
+},
+{
+"name": "soundP24",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P24.mp3"
+},
+{
+"name": "soundP25",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P25.mp3"
+},
+{
+"name": "soundP26",
+"type": "sound",
+"soundType": "music",
+"url": "sound/P26.mp3"
+},
+{
+"name": "soundP27",
+"type": "sound",
+"url": "sound/P27.mp3"
+},
+{
+"name": "loading_png",
+"type": "image",
+"url": "public/loading.png"
+},
+{
+"name": "loading_json",
+"type": "json",
+"url": "config/loading.json"
+},
+{
+"name": "paragraphList",
+"type": "json",
+"url": "config/paragraphList.json"
+},
+{
+"name": "moveParagrahList",
+"type": "json",
+"url": "config/moveParagrahList.json"
+},
+{
+"name": "yellowBlock",
+"type": "json",
+"url": "config/yellowBlock.json"
+},
+{
+"name": "sc1_bg",
+"type": "image",
+"url": "sc1_sc13/sc1_bg.jpg"
+},
+{
+"name": "sc1_char",
+"type": "image",
+"url": "public/char_tip_girl.png"
+},
+{
+"name": "sc1_btn",
+"type": "image",
+"url": "sc1_sc13/sc1_btn.png"
+},
+{
+"name": "step_bg",
+"type": "image",
+"url": "sc1_sc13/step_bg.jpg"
+},
+{
+"name": "sc1_text1",
+"type": "image",
+"url": "sc1_sc13/sc1_text1.png"
+},
+{
+"name": "sc1_text2",
+"type": "image",
+"url": "sc1_sc13/sc1_text2.png"
+},
+{
+"name": "sc2_bg",
+"type": "image",
+"url": "sc1_sc13/sc2_bg.jpg"
+},
+{
+"name": "sc2_btn",
+"type": "image",
+"url": "sc1_sc13/sc2_btn.png"
+},
+{
+"name": "sc2_text",
+"type": "image",
+"url": "sc1_sc13/sc2_text.png"
+},
+{
+"name": "sc3_bg",
+"type": "image",
+"url": "sc1_sc13/sc3_bg.jpg"
+},
+{
+"name": "sc3_btn1",
+"type": "image",
+"url": "sc1_sc13/sc3_btn1.png"
+},
+{
+"name": "sc3_btn2",
+"type": "image",
+"url": "sc1_sc13/sc3_btn2.png"
+},
+{
+"name": "sc3_btn3",
+"type": "image",
+"url": "sc1_sc13/sc3_btn3.png"
+},
+{
+"name": "sc5_char",
+"type": "image",
+"url": "sc1_sc13/sc5_char.png"
+},
+{
+"name": "title_bg",
+"type": "image",
+"url": "sc1_sc13/title_bg.png"
+},
+{
+"name": "sc5_text1",
+"type": "image",
+"url": "sc1_sc13/sc5_text1.png"
+},
+{
+"name": "sc5_text2",
+"type": "image",
+"url": "sc1_sc13/sc5_text2.png"
+},
+{
+"name": "tips_bg",
+"type": "image",
+"url": "sc1_sc13/tips_bg.jpg"
+},
+{
+"name": "continue_btn",
+"type": "image",
+"url": "public/btn_continue.png"
+},
+{
+"name": "reselect_btn",
+"type": "image",
+"url": "public/btn_reselect.png"
+},
+{
+"name": "sc6_bg",
+"type": "image",
+"url": "sc1_sc13/sc6_bg.jpg"
+},
+{
+"name": "submit_btn",
+"type": "image",
+"url": "sc1_sc13/submit_btn.jpg"
+},
+{
+"name": "sc7_bg",
+"type": "image",
+"url": "sc1_sc13/sc7_bg.jpg"
+},
+{
+"name": "sc7_btn",
+"type": "image",
+"url": "sc1_sc13/sc7_btn.jpg"
+},
+{
+"name": "sc7_tip",
+"type": "image",
+"url": "sc1_sc13/sc7_tip.jpg"
+},
+{
+"name": "sc8_bg",
+"type": "image",
+"url": "sc1_sc13/sc8_bg.png"
+},
+{
+"name": "sc8_tip",
+"type": "image",
+"url": "sc1_sc13/sc8_tip.png"
+},
+{
+"name": "sc8_right",
+"type": "image",
+"url": "sc1_sc13/sc8_right.jpg"
+},
+{
+"name": "sc9_bg",
+"type": "image",
+"url": "sc1_sc13/sc9_bg.jpg"
+},
+{
+"name": "sc9_char",
+"type": "image",
+"url": "sc1_sc13/sc9_char.png"
+},
+{
+"name": "sc9_tip",
+"type": "image",
+"url": "sc1_sc13/sc9_tip.png"
+},
+{
+"name": "sc9_text",
+"type": "image",
+"url": "sc1_sc13/sc9_text.png"
+},
+{
+"name": "sc10_btn",
+"type": "image",
+"url": "sc1_sc13/sc10_btn.png"
+},
+{
+"name": "sc10_char",
+"type": "image",
+"url": "sc1_sc13/sc10_char.png"
+},
+{
+"name": "sc12_img1",
+"type": "image",
+"url": "sc1_sc13/sc12_img1.jpg"
+},
+{
+"name": "sc12_img2",
+"type": "image",
+"url": "sc1_sc13/sc12_img2.jpg"
+},
+{
+"name": "sc12_img3",
+"type": "image",
+"url": "sc1_sc13/sc12_img3.jpg"
+},
+{
+"name": "sc12_img0",
+"type": "image",
+"url": "sc1_sc13/sc12_img0.jpg"
+},
+{
+"name": "sc13_text1",
+"type": "image",
+"url": "sc1_sc13/sc13_text1.png"
+},
+{
+"name": "sc13_text2",
+"type": "image",
+"url": "sc1_sc13/sc13_text2.png"
+},
+{
+"name": "sc13_char",
+"type": "image",
+"url": "sc1_sc13/sc13_char.png"
+},
+{
+"name": "logo",
+"type": "image",
+"url": "sc1_sc13/logo.jpg"
+},
+{
+"name": "design",
+"type": "image",
+"url": "sc1_sc13/design.jpg"
+},
+{
+"name": "bgMain",
+"type": "image",
+"url": "sc14_sc26/bg.jpg"
+},
+{
+"name": "sc27_text_bg",
+"type": "image",
+"url": "sc1_sc13/sc27_text_bg.png"
+},
+{
+"name": "sc27_arrow",
+"type": "image",
+"url": "sc1_sc13/sc27_arrow.png"
+},
+{
+"name": "sc27_more",
+"type": "image",
+"url": "sc1_sc13/sc27_more.png"
+},
+{
+"name": "sc28_bg",
+"type": "image",
+"url": "sc1_sc13/sc28_bg.jpg"
+},
+{
+"name": "sc14_img",
+"type": "image",
+"url": "sc1_sc13/sc14_img.jpg"
+},
+{
+"name": "sc14_img2",
+"type": "image",
+"url": "sc1_sc13/sc14_img2.jpg"
+},
+{
+"name": "bubbleListParam",
+"type": "json",
+"url": "config/bubbleList.json"
+},
+{
+"name": "dragTextListParam",
+"type": "json",
+"url": "config/dragTextList.json"
+},
+{
+"name": "tipTextList",
+"type": "json",
+"url": "config/tipTextList.json"
+},
+{
+"name": "bgAction1",
+"type": "image",
+"url": "sc14_sc26/bg_action1.png"
+},
+{
+"name": "bgAction2",
+"type": "image",
+"url": "sc14_sc26/bg_action2.png"
+},
+{
+"name": "bgAction3",
+"type": "image",
+"url": "sc14_sc26/bg_action3.png"
+},
+{
+"name": "bgAction4",
+"type": "image",
+"url": "sc14_sc26/bg_action4.png"
+},
+{
+"name": "bgBlock",
+"scale9grid": "20,20,300,520",
+"type": "image",
+"url": "sc14_sc26/bg_block.png"
+},
+{
+"name": "btnNormal",
+"scale9grid": "35,25,215,50",
+"type": "image",
+"url": "sc14_sc26/btn_normal.png"
+},
+{
+"name": "casetip15",
+"type": "image",
+"url": "sc14_sc26/casetip15.png"
+},
+{
+"name": "casetip17",
+"type": "image",
+"url": "sc14_sc26/casetip17.png"
+},
+{
+"name": "casetip18",
+"type": "image",
+"url": "sc14_sc26/casetip18.png"
+},
+{
+"name": "casetip22",
+"type": "image",
+"url": "sc14_sc26/casetip22.png"
+},
+{
+"name": "casetip24",
+"type": "image",
+"url": "sc14_sc26/casetip24.png"
+},
+{
+"name": "casetip26",
+"type": "image",
+"url": "sc14_sc26/casetip26.png"
+},
+{
+"name": "pics",
+"type": "sheet",
+"url": "sc14_sc26/pics.json"
+},
+{
+"name": "dragPics",
+"type": "sheet",
+"url": "sc14_sc26/dragPics.json"
+},
+{
+"name": "bgTip",
+"type": "image",
+"url": "public/bg_tip.png"
+},
+{
+"name": "btnContinue",
+"type": "image",
+"url": "public/btn_continue.png"
+},
+{
+"name": "btnReselect",
+"type": "image",
+"url": "public/btn_reselect.png"
+},
+{
+"name": "tipGirl",
+"type": "image",
+"url": "public/char_tip_girl.png"
+},
+{
+"name": "sc15_boy",
+"type": "image",
+"url": "sc14_sc26/sc15_boy.png"
+},
+{
+"name": "sc15_left",
+"type": "image",
+"url": "sc14_sc26/sc15_left.png"
+},
+{
+"name": "sc16_pic1",
+"type": "image",
+"url": "sc14_sc26/sc16_pic1.png"
+},
+{
+"name": "sc16_pic2",
+"type": "image",
+"url": "sc14_sc26/sc16_pic2.png"
+},
+{
+"name": "sc16_pic3",
+"type": "image",
+"url": "sc14_sc26/sc16_pic3.png"
+},
+{
+"name": "sc16_bubble",
+"type": "image",
+"url": "sc14_sc26/sc16_bubble.png"
+},
+{
+"name": "sc16_text",
+"type": "image",
+"url": "sc14_sc26/sc16_text.png"
+},
+{
+"name": "sc23_1",
+"type": "image",
+"url": "sc14_sc26/sc23_1.png"
+},
+{
+"name": "sc23_1",
+"type": "image",
+"url": "sc14_sc26/sc23_1.png"
+},
+{
+"name": "sc23_1",
+"type": "image",
+"url": "sc14_sc26/sc23_1.png"
+},
+{
+"name": "sc23_2",
+"type": "image",
+"url": "sc14_sc26/sc23_2.png"
+},
+{
+"name": "sc23_3",
+"type": "image",
+"url": "sc14_sc26/sc23_3.png"
+},
+{
+"name": "IhateU",
+"type": "image",
+"url": "sc14_sc26/IhateU.png"
+}
+]
+}
